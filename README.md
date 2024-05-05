@@ -1,20 +1,11 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](./img/Design.png)
 # One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+### Made with ❤️ by [Erick Ngila](https://www.instagram.com/thee_kavesu?igsh=MXI2YXR6OTM0eHk1aw==)
 
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
+This is a personal website that showcases my skills, projects, and experiences as a front-end developer. The website includes a home page with an introduction about me, a portfolio section highlighting my projects with descriptions, a resume section with my work experience and education, and a contact form for potential employers or collaborators to reach out to me. The website is built using HTML, CSS, and JavaScript, with Bootstrap for styling and responsiveness. It is a showcase of my abilities and a central hub for anyone interested in my work to learn more about me and my projects.
 ---
-
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
 
 
